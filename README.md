@@ -2,7 +2,8 @@
 ## 프로그래머스 - 더 맵게(https://programmers.co.kr/learn/courses/30/lessons/42626)
 
 프로그래머스 Heap 문제  
-PriorityQueue를 이용하여 가장 가중치가 낮은 값을 업데이트하며 쉽게 풀 수 있었다.  
+PriorityQueue를 이용하여 풀 수 있었다.  
+가장 가중치가 낮은 값을 조건에 맞을때까지 계속 업데이트하며 정답을 쉽게 구할 수 있었다.  
 
 실행 순서는 다음과 같다 :   
 1. 오름차순 정렬을 기본으로하는 PriorityQueue pQueue에 input 입력
